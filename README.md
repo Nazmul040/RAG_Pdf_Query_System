@@ -31,7 +31,7 @@ python -m venv venv
 
 ### 3. Activate Virtual Environment
 ```powershell
-& "C:/Users/jubae/RAG SYSTEM/venv/Scripts/Activate.ps1"
+& "C:/Users/nazmul/RAG SYSTEM/venv/Scripts/Activate.ps1"
 ```
 
 ### 4. Install Dependencies
@@ -102,7 +102,7 @@ RAG SYSTEM/
 
 ### Option 2: Manual Start
 ```powershell
-& "C:/Users/jubae/RAG SYSTEM/venv/Scripts/Activate.ps1"
+& "C:/Users/nazmul/RAG SYSTEM/venv/Scripts/Activate.ps1"
 uvicorn app.main:app --reload
 ```
 
